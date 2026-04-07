@@ -2,7 +2,8 @@ streamlit==1.33.0
 langchain==0.2.12
 langchain-community==0.2.11
 langchain-openai==0.1.7
-sqlalchemy==2.0.30
-pymysql==1.1.1
+sqlalchemy==2.0.29
+pymysql==1.1.0
 python-dotenv==1.0.1
-openai==1.35.3
+openai==1.30.5
+tiktoken==0.7.0
